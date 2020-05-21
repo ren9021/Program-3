@@ -6,16 +6,7 @@
 #
 #  File Name:         <Program3.py>
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          09-18-2019
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapter # 2
-#
-#  Description:
-#     This program is to calculate annual property tax charged for homeowner
+#  Description:       This program is to calculate annual property tax charged for homeowner
 #
 #***************************************************************
 
@@ -60,7 +51,6 @@ def main():
 #**************************************************************
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  3')
     print()
     # End of the developerInfo function
